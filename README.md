@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Arshad</h1>
 
 <p align="center">
-  <strong>Software Engineer | React Native & Full-Stack Developer | AI Integrations</strong>
+  <strong>Full-Stack Developer | React Native · Next.js · Node.js · ASP.NET Core | Relocating to the Netherlands 🇳🇱</strong>
 </p>
 
 <p align="center">
@@ -26,13 +26,14 @@
 
 ### 📌 About Me
 
-- 🎓 **BS in Computer Science** at SZABIST, Karachi (2023 – Present).
-- 💼 **Ex-Full Stack Developer** @ Logic Loops Solutions | **Ex-Mobile App Developer** @ Code Master Innovative.
+- 🇳🇱 **Relocating to the Netherlands** — open to full-time on-site or hybrid developer roles.
+- 🎓 **BS in Computer Science** at SZABIST, Karachi (2023 – 2027, final year).
+- 💼 **Full Stack Developer** @ LogicLoop Solutions (2023 – 2026) — React Native, React, Node.js and TypeScript.
 - 🚀 Architected and shipped **6+ production-ready React & React Native apps** with modular TypeScript architecture.
 - 🤖 Hands-on with **AI & LLM Integrations** (Google Gemini, OpenAI, Anthropic, RAG pipelines).
 - 🔭 Currently building **EzFinance** (AI-Powered Finance & Investment App) and **Hautique** (AI Design Studio).
 - 🌱 Learning & experimenting: **Autonomous AI Agents**, **ML Microservices (Flask / scikit-learn)**, and **Cloud Scaling**.
-- 💬 Ask me about: **React Native, Next.js, TypeScript, State Management, REST APIs & AI Integrations**.
+- 💬 Ask me about: **React Native, Next.js, TypeScript, ASP.NET Core, REST APIs & AI Integrations**.
 
 ---
 
@@ -42,6 +43,7 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -62,6 +64,7 @@
 
 **Backend, AI & Databases**  
 <p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -76,6 +79,7 @@
 **Tools & Workflow**  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
@@ -101,7 +105,7 @@
 
 ### 🏆 Featured Projects
 
-- 💰 **EzFinance** — AI-Powered Personal Finance & Investment platform featuring NLP-based SMS expense categorization, budgeting, and risk-profiled PSX investment recommendations *(React Native, Node.js/Express, Python/Flask, scikit-learn, MongoDB, FCM)*.
+- 💰 **EzFinance** — AI-Powered Personal Finance & Investment platform featuring NLP-based SMS expense categorization, budgeting, and risk-profiled PSX investment recommendations *(React Native, ASP.NET Core (.NET 10) Web API, Supabase/PostgreSQL, Python/scikit-learn, Docker, GitHub Actions CI/CD)* — [GitHub Repo](https://github.com/talhaarshad010/ezfinance).
 - 🎨 **Hautique** — AI-Powered Design Studio Applet that generates and edits visual assets with Google Gemini API integrations — [GitHub Repo](https://github.com/talhaarshad010/hautique).
 - 📋 **Recruito** — Recruitment workflow & candidate pipeline management application with interactive Kanban progression — [GitHub Repo](https://github.com/talhaarshad010/recruito).
 - 🎵 **Mulder** — Cross-platform iOS & Android music streaming application with Redux Toolkit concurrent audio state management *(React Native, Redux Toolkit, Node.js, MongoDB)*.
