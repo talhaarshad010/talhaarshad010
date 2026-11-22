@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Arshad</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | React Native · Next.js · Node.js · ASP.NET Core | Relocating to the Netherlands 🇳🇱</strong>
+  <strong>Full-Stack Developer | React Native · Next.js · Node.js · ASP.NET Core | Relocating to the EU 🇪🇺</strong>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### 📌 About Me
 
-- 🇳🇱 **Relocating to the Netherlands** — open to full-time on-site or hybrid developer roles.
+- 🇪🇺 **Relocating to the EU** — open to full-time on-site or hybrid developer roles across Europe.
 - 🎓 **BS in Computer Science** at SZABIST, Karachi (2023 – 2027, final year).
 - 💼 **Full Stack Developer** @ LogicLoop Solutions (2023 – 2026) — React Native, React, Node.js and TypeScript.
 - 🚀 Architected and shipped **6+ production-ready React & React Native apps** with modular TypeScript architecture.
